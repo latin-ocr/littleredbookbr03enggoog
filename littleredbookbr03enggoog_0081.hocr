@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./littleredbookbr03enggoog_0081.png"; bbox 0 0 1306 1648; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1226 1242 1248 1461">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1226 1242 1248 1461">
+     <span class='ocr_line' id='line_1_1' title="bbox 1226 1242 1248 1461; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 1231 1242 1248 1263; x_wconf 80' lang='lat' dir='ltr'>To</span> <span class='ocrx_word' id='word_1_2' title='bbox 1228 1273 1247 1306; x_wconf 76' lang='lat' dir='ltr'>lnce</span> <span class='ocrx_word' id='word_1_3' title='bbox 1226 1315 1242 1353; x_wconf 70' lang='lat' dir='ltr'>page</span> <span class='ocrx_word' id='word_1_4' title='bbox 1228 1364 1247 1388; x_wconf 76' lang='lat'>59.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1230 1400 1246 1428; x_wconf 75' lang='lat' dir='ltr'><em>vol.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1230 1439 1246 1461; x_wconf 87' lang='lat'>11.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 106 344 123 1273">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 106 344 123 1273">
+     <span class='ocr_line' id='line_1_2' title="bbox 106 344 123 1273; textangle 270"><span class='ocrx_word' id='word_1_7' title='bbox 107 344 123 425; x_wconf 80' lang='lat' dir='ltr'>EFFlGY</span> <span class='ocrx_word' id='word_1_8' title='bbox 107 446 123 475; x_wconf 81' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_9' title='bbox 107 496 123 595; x_wconf 82' lang='lat' dir='ltr'>WILLIAM</span> <span class='ocrx_word' id='word_1_10' title='bbox 106 617 122 722; x_wconf 81' lang='lat' dir='ltr'>CANYNGE</span> <span class='ocrx_word' id='word_1_11' title='bbox 107 745 122 766; x_wconf 83' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_12' title='bbox 107 788 122 834; x_wconf 88' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_13' title='bbox 106 855 123 949; x_wconf 83' lang='lat' dir='ltr'><strong>CHURCH</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 107 971 123 1000; x_wconf 76' lang='lat'>012</span> <span class='ocrx_word' id='word_1_15' title='bbox 107 1022 123 1052; x_wconf 90' lang='lat' dir='ltr'>ST.</span> <span class='ocrx_word' id='word_1_16' title='bbox 107 1074 123 1134; x_wconf 78' lang='lat' dir='ltr'><strong>MARY</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 107 1156 123 1273; x_wconf 80' lang='lat' dir='ltr'>REDCLIFF.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
